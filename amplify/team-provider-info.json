@@ -1,0 +1,21 @@
+{
+    "demo": {
+        "awscloudformation": {
+            "AuthRoleName": "a4psdemo-demo-20191028025807-authRole",
+            "UnauthRoleArn": "arn:aws:iam::879312799516:role/a4psdemo-demo-20191028025807-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::879312799516:role/a4psdemo-demo-20191028025807-authRole",
+            "Region": "ap-southeast-1",
+            "DeploymentBucketName": "a4psdemo-demo-20191028025807-deployment",
+            "UnauthRoleName": "a4psdemo-demo-20191028025807-unauthRole",
+            "StackName": "a4psdemo-demo-20191028025807",
+            "StackId": "arn:aws:cloudformation:ap-southeast-1:879312799516:stack/a4psdemo-demo-20191028025807/c4e0a7e0-f92e-11e9-9be0-0a59ed61233a"
+        },
+        "categories": {
+            "auth": {
+                "4psdemoca456976": {
+                    "hostedUIProviderCreds": "[{\"ProviderName\":\"Facebook\",\"client_id\":\"501603223769747\",\"client_secret\":\"19fd9c11e4287d71665bd2156b96638b\"},{\"ProviderName\":\"Google\",\"client_id\":\"834845709882-84lkvlug0s814nd60686fph5ljqedkjk.apps.googleusercontent.com\",\"client_secret\":\"HuzLeycc_RuFKaCGFNrMooiN\"}]"
+                }
+            }
+        }
+    }
+}

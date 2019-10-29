@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"4psdemoca456976": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}
